@@ -1,0 +1,7 @@
+# Ignore plugin projects.
+/serverless-plugin-project/plugins/*
+
+# Ignore the project config since it changes depending on the plugins being developed.
+/serverless-plugin-project/s-project.json
+
+
